@@ -14,18 +14,18 @@ The objective of the project is to do data pre-processing and exploratory data a
 
 ### Libraries
 
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Sklearn
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. Sklearn
 
 ### Machine Learning Models
 
-Linear Regression
-Random Forest Reggresion
-Support Vector Regression
-Decision Tree
+1. Linear Regression
+2. Random Forest Reggresion
+3. Support Vector Regression
+4. Decision Tree
 
 ### Data Processing
 
